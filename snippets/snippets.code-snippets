@@ -1,0 +1,25 @@
+{
+	"Console Log": {
+		"prefix": "console",
+		"body": "console.log($1);",
+		"description": "Console Log"
+	},
+	"Shows command Handler": {
+		"prefix": "command",
+		"body": [
+		  "module.exports.run = async (bot, message, args) => {",
+		  "    const PREFIX = \"u!\";",
+		  "    const args2 = message.content.substring(PREFIX.length).split(\" \");",
+		  "    $1",
+		  "}",
+		  "module.exports.config = {",
+		  "    name: \"<command name>\",",
+		  "    description: \"<command description>\",",
+		  "    usage: \"command usage\",",
+		  "    accessableby: \"Members\",",
+		  "    aliases: []",
+		  "}"
+		],
+		"description": "Shows command Handler"
+	  }
+}

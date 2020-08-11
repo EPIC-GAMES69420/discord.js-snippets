@@ -1,0 +1,21 @@
+{
+    "name": "discord-js-snippets",
+    "publisher": "Kp",
+    "displayName": "Discord.js snippets",
+    "description": "Discord.js v12 snippets",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
