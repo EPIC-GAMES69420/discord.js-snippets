@@ -50,7 +50,6 @@
     "    //use args2 for the commands",
     "    //create a folder called commands",
 	"    //create a file inside your command folder (this is where you keep all of your commands)",
-	
     "    //and then type \"command\" to use the command handler",
     "",
     "});",
