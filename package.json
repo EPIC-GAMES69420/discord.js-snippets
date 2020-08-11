@@ -17,5 +17,8 @@
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^1.77.0"
     }
 }
