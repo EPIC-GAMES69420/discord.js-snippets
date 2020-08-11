@@ -13,3 +13,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.3]
 - Some other secret
+
+## [0.0.4]
+- Some other secret
