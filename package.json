@@ -4,6 +4,7 @@
     "displayName": "Discord.js snippets",
     "description": "Discord.js v12 snippets",
     "version": "0.0.1",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.47.0"
     },
